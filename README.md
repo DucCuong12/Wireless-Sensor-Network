@@ -2,7 +2,7 @@
 Addressing the challenge of maximizing the count of targets that fulfill both K-coverage and K-connectivity requirements within a wireless sensor network (WSN) while maintaining a predetermined number of sensors
 
 
-# This paper is ACCEPTED in Jounal Informatica2024 ISI Q2 
+# PAPER: Memetic Algorithm for maximizing K-coverage and K-connectivity in Wireless Sensors Network:  This paper is ACCEPTED in Jounal Informatica2024 ISI Q2 
 
 This repository contains the implementation of a novel hybrid optimization approach combining Genetic Algorithm (GA), Prim's Algorithm, and a specialized local search strategy. The proposed method is designed to address the K-Coverage problem while ensuring connectivity in sensor networks. Our approach effectively balances exploration and exploitation to achieve optimal sensor deployment.
 
